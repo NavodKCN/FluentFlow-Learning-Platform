@@ -47,7 +47,7 @@
   <h2 style="color: #c0392b;">📂 Project Setup</h2>
   <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto;">
 # Clone the repository
-git clone https://github.com/yourusername/fluentflow.git
+git clone https://github.com/NavodKCN/FluentFlow-Learning-Platform.git
 
 # Navigate to the project folder
 cd fluentflow
